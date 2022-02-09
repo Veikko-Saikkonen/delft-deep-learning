@@ -1,0 +1,6 @@
+pip
+numpy
+pandas
+sacred
+ipykernel
+matplotlib
