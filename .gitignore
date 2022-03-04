@@ -133,3 +133,5 @@ delft-deep-learning.code-workspace
 data/
 mnist1d/
 mnist1d_data.pkl
+
+runs
