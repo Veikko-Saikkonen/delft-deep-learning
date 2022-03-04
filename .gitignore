@@ -131,6 +131,7 @@ delft-deep-learning.code-workspace
 
 # Datasets
 data/
+datasets/
 mnist1d/
 mnist1d_data.pkl
 
